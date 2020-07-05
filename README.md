@@ -1,0 +1,28 @@
+# LvmViewer
+
+## Build Setup
+
+```bash
+# install dependencies
+$ npm install
+
+# serve with hot reload at localhost:3000
+$ npm run dev
+
+# build for production and launch server
+$ npm run build
+$ npm run start
+
+# generate static project
+$ npm run generate
+```
+
+For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+## 概要
+とある電気実験のグラフビューア
+
+とある電気実験のレポート作成に特化したグラフビューア。 
+
+## Preview
+<img src="github_assets\LvmViewerTop.png" width="500">
