@@ -35,14 +35,14 @@ export const FileNameToLabel = {
   'data017.lvm': 'Kd=4.0',
   'data018.lvm': 'Kd=5.0',
   // PID制御
-  'data019.lvm': 'Kd=0.0',
-  'data020.lvm': 'Kd=0.02',
-  'data021.lvm': 'Kd=0.04',
-  'data022.lvm': 'Kd=0.06',
-  'data023.lvm': 'Kd=0.08',
-  'data024.lvm': 'Kd=0.10',
-  'data025.lvm': 'Kd=0.12',
-  'data026.lvm': 'Kd=0.24',
-  'data027.lvm': 'Kd=0.3',
+  'data019.lvm': 'Ki=0.0',
+  'data020.lvm': 'Ki=0.02',
+  'data021.lvm': 'Ki=0.04',
+  'data022.lvm': 'Ki=0.06',
+  'data023.lvm': 'Ki=0.08',
+  'data024.lvm': 'Ki=0.10',
+  'data025.lvm': 'Ki=0.12',
+  'data026.lvm': 'Ki=0.24',
+  'data027.lvm': 'Ki=0.3',
 
 }
